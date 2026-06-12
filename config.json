@@ -1,0 +1,16 @@
+{
+  "_comentario": "Edita y guarda este archivo MIENTRAS el bot corre: los cambios se aplican solos en el siguiente ciclo. No necesitas reiniciar ni reinstalar nada.",
+  "mode": "paper",
+  "_modos": "paper = simulado con precios reales (SIN riesgo) | testnet = Binance Testnet | live = DINERO REAL",
+  "enabled": true,
+  "_enabled": "Pon false para pausar el bot sin cerrarlo",
+  "api_key": "TU_API_KEY_AQUI",
+  "api_secret": "TU_API_SECRET_AQUI",
+  "_claves": "Solo necesarias en testnet/live. NUNCA compartas este archivo con nadie.",
+  "symbol": "BTCUSDT",
+  "interval": "1m",
+  "order_quantity": 0.001,
+  "poll_seconds": 30,
+  "sma_fast": 7,
+  "sma_slow": 25
+}
