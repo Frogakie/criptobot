@@ -1,0 +1,17 @@
+# Configuración local con claves de API: NUNCA subirla
+config.json
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# PyInstaller
+build/
+dist/
+*.spec
