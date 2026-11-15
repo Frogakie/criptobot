@@ -15,3 +15,7 @@ venv/
 build/
 dist/
 *.spec
+
+# Estado del bot (posición abierta) y datos descargados
+state_*.json
+data/

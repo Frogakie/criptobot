@@ -12,5 +12,7 @@
   "order_quantity": 0.001,
   "poll_seconds": 30,
   "sma_fast": 7,
-  "sma_slow": 25
+  "sma_slow": 25,
+  "fee_rate": 0.001,
+  "_fee_rate": "Comisión por operación (0.001 = 0.1%). Se usa en modo paper y en el backtester."
 }
